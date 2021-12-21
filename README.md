@@ -6,6 +6,9 @@ python3
 ## Add Two Numbers
 python3
 
+## Letter Combinations
+python3
+
 ## Median Of Two Sorted Arrays
 python3
 
@@ -29,5 +32,5 @@ python3
 ## Roman To Integer
 python3
 
-## Letter Combinations
+## Squares of a Sorted Array
 python3
