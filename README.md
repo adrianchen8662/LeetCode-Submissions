@@ -2,14 +2,15 @@
 
 
 ## Minimum Absolute Difference
-<<<<<<< HEAD
-python3
+python3<br>
 python
 
 ## Palindrome
-python3
-python
-=======
 python3<br>
 python
->>>>>>> d7445118e76f5be968f568a9736873a00642f7b0
+
+## Add Two Numbers
+python3
+
+## Roman To Integer
+python3
