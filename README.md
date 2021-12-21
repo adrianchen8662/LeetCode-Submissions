@@ -1,5 +1,16 @@
 # LeetCode-Submissions
 
+## Add Binary
+python3
+
+## Add Two Numbers
+python3
+
+## Median Of Two Sorted Arrays
+python3
+
+## Merge Two Sorted Lists
+python3
 
 ## Minimum Absolute Difference
 python3<br>
@@ -9,14 +20,11 @@ python
 python3<br>
 python
 
-## Add Two Numbers
+## Power Of Two
+python3
+
+## Reverse Integer
 python3
 
 ## Roman To Integer
-python3
-
-## Merge Two Sorted Lists
-python3
-
-## Add Binary
 python3
