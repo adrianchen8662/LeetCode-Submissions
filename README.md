@@ -14,3 +14,9 @@ python3
 
 ## Roman To Integer
 python3
+
+### Merge Two Sorted Lists
+python3
+
+### Add Binary
+python3
