@@ -2,6 +2,7 @@
 
 ## Add Binary
 python3
+C
 
 ## Add Two Numbers
 python3
@@ -34,3 +35,8 @@ python3
 
 ## Squares of a Sorted Array
 python3
+
+## Two sum
+C
+python3
+python
