@@ -30,6 +30,9 @@ python
 python3<br>
 python
 
+# Pow (x,n)
+python3
+
 ## Power Of Two
 python3
 
@@ -42,6 +45,9 @@ python3
 ## Roman To Integer
 python3
 
+## Sqrt(x)
+python3
+
 ## Squares of a Sorted Array
 python3
 
@@ -49,3 +55,6 @@ python3
 C<br>
 python3<br>
 python
+
+## Valid Perfect Sum
+python3

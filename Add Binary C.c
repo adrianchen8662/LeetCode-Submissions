@@ -11,16 +11,14 @@ char * addBinary(char * a, char * b){
     {
         if (alength)
         {
-            alength--;
-            carry += a[alength] - '0';
+            carry += a[--alength] - '0';
         }
         if (blength)
         {
-            blength--;
-            carry += b[blength] - '0';
+            carry += b[--blength] - '0';
         }
-        result[length] = (carry & 1) + '0';
-        length--;
+        result[length--] = (carry & 1) + '0';
+
         carry >>= 1; // right shift 1
     }
     result[0] = carry + '0';
