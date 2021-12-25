@@ -39,6 +39,12 @@ python3
 ## Remove Duplicates from Sorted Array
 python3
 
+## Remove Element
+python3
+
+## Remove Linked List Elements
+python3
+
 ## Reverse Integer
 python3
 
