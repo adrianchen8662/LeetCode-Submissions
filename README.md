@@ -7,6 +7,15 @@ C
 ## Add Two Numbers
 python3
 
+## Binary Tree Inorder Traversal
+python3
+
+## Binary Tree Postorder Traversal
+python3
+
+## Binary Tree Preorder Traversal
+python3
+
 ## Implement Strstr()
 python3
 
