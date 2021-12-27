@@ -78,5 +78,8 @@ C<br>
 python3<br>
 python
 
+## Ugly Number
+python3
+
 ## Valid Perfect Sum
 python3
