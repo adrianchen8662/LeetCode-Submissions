@@ -19,6 +19,9 @@ python3
 ## Implement Strstr()
 python3
 
+## Length Of Longest Substring
+python3
+
 ## Letter Combinations
 python3
 
@@ -34,6 +37,10 @@ python3
 ## Minimum Absolute Difference
 python3<br>
 python
+
+## Nim Game
+C<br>
+python3
 
 ## Palindrome
 python3<br>
