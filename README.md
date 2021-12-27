@@ -22,6 +22,9 @@ mysql
 ## Employees Earning More Than Their Managers
 mysql
 
+## First Bad Version
+C
+
 ## Implement Strstr()
 python3
 
@@ -72,6 +75,9 @@ python3
 
 ## Roman To Integer
 python3
+
+## Search Insert Position
+C
 
 ## Sqrt(x)
 python3
