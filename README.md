@@ -16,6 +16,12 @@ python3
 ## Binary Tree Preorder Traversal
 python3
 
+## Duplicate Emails
+mysql
+
+## Employees Earning More Than Their Managers
+mysql
+
 ## Implement Strstr()
 python3
 
