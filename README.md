@@ -28,6 +28,9 @@ C
 ## Implement Strstr()
 python3
 
+## Intersection Of Two Arrays
+python3
+
 ## Length Of Longest Substring
 python3
 
@@ -81,6 +84,9 @@ python3
 
 ## Search Insert Position
 C
+
+## Single Number
+python3
 
 ## Sqrt(x)
 python3
