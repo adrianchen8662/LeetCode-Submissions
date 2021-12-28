@@ -73,6 +73,9 @@ python3
 ## Reverse Integer
 python3
 
+## Reverse String
+python3
+
 ## Roman To Integer
 python3
 
