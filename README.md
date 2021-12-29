@@ -7,6 +7,9 @@ C
 ## Add Two Numbers
 python3
 
+## Binary Search
+C
+
 ## Binary Tree Inorder Traversal
 python3
 
