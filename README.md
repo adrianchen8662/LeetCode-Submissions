@@ -82,6 +82,9 @@ python3
 ## Remove Linked List Elements
 python3
 
+## Reverse Bits
+C
+
 ## Reverse Integer
 python3
 
