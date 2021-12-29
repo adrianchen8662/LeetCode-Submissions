@@ -60,6 +60,9 @@ python
 C<br>
 python3
 
+## Number Of 1 Bits
+C
+
 ## Palindrome
 python3<br>
 python
