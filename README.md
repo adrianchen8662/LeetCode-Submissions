@@ -76,6 +76,9 @@ python3
 ## Power Of Two
 python3
 
+## Ransom Note
+python3
+
 ## Remove Duplicates from Sorted Array
 python3
 
