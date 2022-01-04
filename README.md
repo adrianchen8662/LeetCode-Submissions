@@ -22,6 +22,9 @@ python3
 ## Binary Tree Preorder Traversal
 python3
 
+## Climbing Stairs
+python3
+
 ## Duplicate Emails
 mysql
 
@@ -43,6 +46,9 @@ python3
 ## Intersection Of Two Arrays
 python3
 
+## Length Of Last Word
+python3
+
 ## Length Of Longest Substring
 python3
 
@@ -54,6 +60,9 @@ python3
 
 ## Maximum Depth Of Binary Tree
 C
+
+## Maximum Subarray
+python3
 
 ## Median Of Two Sorted Arrays
 python3
@@ -78,6 +87,9 @@ C
 ## Palindrome
 python3<br>
 python
+
+## Plus One
+python3
 
 # Pow (x,n)
 python3
@@ -107,6 +119,10 @@ python3
 python3
 
 ## Roman To Integer
+python3
+
+## Same Tree
+C <br>
 python3
 
 ## Search Insert Position
