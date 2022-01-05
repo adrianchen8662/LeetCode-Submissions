@@ -10,6 +10,9 @@ python3
 ## Add Two Numbers
 python3
 
+## Balanced Binary Tree
+C
+
 ## Binary Search
 C
 
@@ -31,11 +34,17 @@ mysql
 ## Employees Earning More Than Their Managers
 mysql
 
+## Find Poisoned Duration
+python3
+
 ## Find The Difference 
 python3
 
 ## First Bad Version
 C
+
+## Guess Number Higher And Lower
+python3
 
 ## Implement Strstr()
 python3
@@ -56,6 +65,9 @@ python3
 python3
 
 ## Longest Palindromic Substring
+python3
+
+## Max Consecutive Ones
 python3
 
 ## Maximum Depth Of Binary Tree
