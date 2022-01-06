@@ -13,6 +13,9 @@ python3
 ## Balanced Binary Tree
 C
 
+## Binary Prefix Divisible By 5
+python3
+
 ## Binary Search
 C
 
